@@ -3712,7 +3712,7 @@
     ]
   },
   "Page 26, Table 0": {
-    "header": "UNIT SERVICE SWGR\nUS SWGR , 12.5 MTR , 415 V , 2500 Amp\n\n\n\n\n\n\nUST \u2013 A A UST-B\nB",
+    "header": "UNIT SERVICE SWGR\nUS SWGR , 12.5 MTR , 415 V , 2500 Amp\n\n\n\n\n\n\n\nB",
     "table": [
       {
         "SEC - A": "UPS Feeder \u2013 1",
