@@ -3494,7 +3494,7 @@
     ]
   },
   "Page 24, Table 0": {
-    "header": "STATION SERVICE SWGR - 4\nSS SWGR, 12.5 MTR, 415 V , 2500 Amp\nFrom 4UA,11kv From 3UB,11kv\n\n\n\n\n\nSST \u2013 A A B SST-B\n\nBoiler Side S/Y Side\n\n11 KV / 415 V 11 K\n KV / 415 V",
+    "header": "STATION SERVICE SWGR - 4\nSS SWGR, 12.5 MTR, 415 V , 2500 Amp",
     "table": [
       {
         "SEC - A": "VENT AHU MCC - A",
@@ -18891,178 +18891,178 @@
     "header": "MCC NAME - MAIN AC LIGHTING DB 12.5 Mtr.",
     "table": [
       {
-        "Module": "",
+        "Module\nNo": "",
         "Description": "Lighting TRANS + INCOMER TO EML DBA,E+\nTRANS",
         "TYPE": "",
-        "AMP": "250A",
+        "AMP\nRATING": "250A",
         "Fuse Rating": ""
       },
       {
-        "Module": "2.3F",
+        "Module\nNo": "2.3F",
         "Description": "EMPTY",
         "TYPE": "",
-        "AMP": "",
+        "AMP\nRATING": "",
         "Fuse Rating": ""
       },
       {
-        "Module": "2.6F",
+        "Module\nNo": "2.6F",
         "Description": "OUTGOING FEEDER (AHU-8.5m)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "2.9F",
+        "Module\nNo": "2.9F",
         "Description": "OUTGOING FEEDER(TG\u2019O\u2019MTR )",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "2.12F",
+        "Module\nNo": "2.12F",
         "Description": "OUTGOING FEEDER(TG 8.5MTR)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "2.15F",
+        "Module\nNo": "2.15F",
         "Description": "OUTGOING FEEDER(TG 8.5 MTR)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "2.18F",
+        "Module\nNo": "2.18F",
         "Description": "OUTGOING FEEDER(12.5 LT SWGR)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "3.4F",
+        "Module\nNo": "3.4F",
         "Description": "BUSCOUPLER",
         "TYPE": "E",
-        "AMP": "160A",
+        "AMP\nRATING": "160A",
         "Fuse Rating": ""
       },
       {
-        "Module": "3.6F",
+        "Module\nNo": "3.6F",
         "Description": "METERING MODULE",
         "TYPE": "VM",
-        "AMP": "",
+        "AMP\nRATING": "",
         "Fuse Rating": ""
       },
       {
-        "Module": "3.9F",
+        "Module\nNo": "3.9F",
         "Description": "OUTGOING FEEDER CER # 4",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "3.12F",
+        "Module\nNo": "3.12F",
         "Description": "OUTGOING FEEDER",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "3.15F",
+        "Module\nNo": "3.15F",
         "Description": "OUTGOING FEEDER # 4 G.T",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "3.18F",
+        "Module\nNo": "3.18F",
         "Description": "OUTGOING FEEDER ESP",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "4.4F",
+        "Module\nNo": "4.4F",
         "Description": "ADAPTOR",
         "TYPE": "",
-        "AMP": "",
+        "AMP\nRATING": "",
         "Fuse Rating": ""
       },
       {
-        "Module": "4.6F",
+        "Module\nNo": "4.6F",
         "Description": "METERING MODULE",
         "TYPE": "VM",
-        "AMP": "",
+        "AMP\nRATING": "",
         "Fuse Rating": ""
       },
       {
-        "Module": "4.9F",
+        "Module\nNo": "4.9F",
         "Description": "OUTGOING FEEDER(TG 17MTR)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "4.12F",
+        "Module\nNo": "4.12F",
         "Description": "OUTGOING FEEDER(3 NLP-7)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "4.15F",
+        "Module\nNo": "4.15F",
         "Description": "OUTGOING FEEDER(2.7MTR MCC ROOM)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "2.18F",
+        "Module\nNo": "2.18F",
         "Description": "OUTGOING FEEDER(3.5 MTR HT SWGR)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "5.3F",
+        "Module\nNo": "5.3F",
         "Description": "EMPTY",
         "TYPE": "",
-        "AMP": "",
+        "AMP\nRATING": "",
         "Fuse Rating": ""
       },
       {
-        "Module": "5.6F",
+        "Module\nNo": "5.6F",
         "Description": "OUTGOING FEEDER(TG 8.5 MTR)",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "5.9F",
+        "Module\nNo": "5.9F",
         "Description": "OUTGOING FEEDER CCR / NLP - 17",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "5.12F",
+        "Module\nNo": "5.12F",
         "Description": "OUTGOING FEEDER",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "5.15F",
+        "Module\nNo": "5.15F",
         "Description": "OUTGOING FEEDER",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       },
       {
-        "Module": "5.18F",
+        "Module\nNo": "5.18F",
         "Description": "OUTGOING FEEDER",
         "TYPE": "E",
-        "AMP": "125A",
+        "AMP\nRATING": "125A",
         "Fuse Rating": ""
       }
     ]
