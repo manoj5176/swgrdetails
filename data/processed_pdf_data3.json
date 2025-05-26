@@ -528,7 +528,7 @@
     ]
   },
   "Page 16, Table 0": {
-    "header": "TRANSFORNMER DETAILS\nStage - II Units (4X500 MW) /NTPC /TSTPP.",
+    "header": "TRANSFORNMER DETAILS\n",
     "table": [
       {
         "Sl no": "1.",
@@ -938,7 +938,7 @@
     ]
   },
   "Page 18, Table 0": {
-    "header": "DETAILS OF OFF SITE AUXILIARIES POWER SUPPLY\n4X500 MW UNITS ,STAGE- II , NTPC /TSTPP",
+    "header": "DETAILS OF OFF SITE AUXILIARIES POWER SUPPLY\n",
     "table": [
       {
         "description": "RW PUMP- 5",
@@ -2489,7 +2489,7 @@
     ]
   },
   "Page 29, Table 0": {
-    "header": "HT SWGR SUPPLY DETAILS\n11 kv BOARD 5 UA ISOLATION DETAILS",
+    "header": "HT SWGR SUPPLY DETAILS\n11 kv BOARD 5 UA ",
     "table": [
       {
         "PANEL\nNO.": "01.",
@@ -2978,7 +2978,7 @@
     ]
   },
   "Page 33, Table 0": {
-    "header": "HT SWGR SUPPLY DETAILS\n11 kv BOARD 6 UA DETAILS",
+    "header": "HT SWGR SUPPLY DETAILS\n11 kv BOARD 6 UA ",
     "table": [
       {
         "PANEL\nNO.": "01.",
@@ -3569,7 +3569,7 @@
     ]
   },
   "Page 39, Table 0": {
-    "header": "UNIT SERVICE SWGR\nUS SWGR , 12.5 MTR , 415 V , 2500 Amp\nFrom 6UA,11kv From 6UB,11kv",
+    "header": "UNIT SERVICE SWGR\nUS SWGR , 12.5 MTR ",
     "table": [
       {
         "SEC - A": "UPS Feeder \u2013 1",
@@ -8390,7 +8390,7 @@
     ]
   },
   "Page 75, Table 0": {
-    "header": "STATION ACDB ( SACDB)\n12.5 MTR , 415 V , 3\n",
+    "header": "STATION ACDB ( SACDB)\n12.5 MTR ",
     "table": [
       {
         "SEC - A": "POWER RECEPITCLE",
@@ -16514,7 +16514,7 @@
     ]
   },
   "Page 135, Table 0": {
-    "header": "AHU - VENT MCC\n12,5 mtr swgr room , 415 v",
+    "header": "AHU - VENT MCC\n12.5 mtr swgr room , 415 v",
     "table": [
       {
         "Module\nNo": "1.2F",
@@ -17751,7 +17751,7 @@
     ]
   },
   "Page 144, Table 0": {
-    "header": "MCC DETAILS\n\uf0b7 MCC NAME - BOILER AC LIGHTING MLDB - 2 , 26.0 SWGR ROOM",
+    "header": "MCC NAME - BOILER AC LIGHTING MLDB - 2 , 26.0 SWGR ROOM",
     "table": [
       {
         "Module\nNo": "2.2",
@@ -17811,7 +17811,7 @@
     ]
   },
   "Page 145, Table 0": {
-    "header": "MCC DETAILS\n\uf0b7 MCC NAME - BOILER AC LIGHTING MLDB - 3 , 26.0 SWGR ROOM",
+    "header": "MCC NAME - BOILER AC LIGHTING MLDB - 3 , 26.0 SWGR ROOM",
     "table": [
       {
         "Module\nNo": "1",
@@ -17888,7 +17888,7 @@
     ]
   },
   "Page 146, Table 0": {
-    "header": "MCC DETAILS\n\uf0b7 MCC NAME - DC Lighting Board (DCLDB) at 26 .0 Mtr",
+    "header": "MCC NAME - DC Lighting Board (DCLDB) at 26 .0 Mtr",
     "table": [
       {
         "Module\nNo": "1",
@@ -17970,7 +17970,7 @@
     ]
   },
   "Page 147, Table 0": {
-    "header": "MCC DETAILS\n\uf0b7 MCC NAME - Emergency Main Lighting DB , 415 V OHS",
+    "header": "MCC NAME - Emergency Main Lighting DB , 415 V OHS",
     "table": [
       {
         "Module\nNo": "1",
