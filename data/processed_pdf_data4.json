@@ -1,6 +1,6 @@
 {
   "Page 2, Table 0": {
-    "header": "MCC/SWGR\r\n0\t\u2022 OFF Site General Information\r\n",
+    "header": "\u2022 OFF Site General Information",
     "table": [
       {
         "SL\nNO.": "",
@@ -2841,279 +2841,274 @@
     "header": "CW MCC UNIT 3 & 4\nIN CWPH 3&4",
     "table": [
       {
-        "Module\nNo": "1.2",
+        "Module No": "1.2",
         "Description": "SPARE",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "1.4",
+        "Module No": "1.4",
         "Description": "HOIST FOR LOG GATES",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "1.6",
+        "Module No": "1.6",
         "Description": "HYD.OPER.BFV POWER MOTER( DISC.BPV 3A)",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "2.2",
+        "Module No": "2.2",
         "Description": "HOIST FOR THRASH RACK",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "2.3",
+        "Module No": "2.3",
         "Description": "ELECTCALLY OPER VLV 2000 NB",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "2.6",
+        "Module No": "2.6",
         "Description": "EOT CRANE-1( 45 TON )",
         "TYPE": "E",
         "AMP RATTING": "125A"
       },
       {
-        "Module\nNo": "2.8",
+        "Module No": "2.8",
         "Description": "HYD OPER BFV POWER MOT ( DISC BFV-3V)",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "2.9",
+        "Module No": "2.9",
         "Description": "CONTROL PANNEL SUPPL-1",
         "TYPE": "E",
         "AMP RATTING": "32A"
       },
       {
-        "Module\nNo": "2.10.",
+        "Module No": "2.10.",
         "Description": "SPARE,3A FAN 4A,5A,6A,7A NORTH SIDE)",
         "TYPE": "E",
         "AMP RATTING": "32A"
       },
       {
-        "Module\nNo": "2.11",
+        "Module No": "2.11",
         "Description": "RE UNIT 5A FAN-3(SOUTH SIDE)",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "2.12",
+        "Module No": "2.12",
         "Description": "RE UNIT SSA FAN7 ( SOUTH SIDE)",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "2.13",
+        "Module No": "2.13",
         "Description": "EX UNIT",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "2.14",
+        "Module No": "2.14",
         "Description": "SA UNIGT SA FAN \u2013 12",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "2.15",
+        "Module No": "2.15",
         "Description": "SA UNIT SA FAN \u2013 11",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "2.16",
+        "Module No": "2.16",
         "Description": "SA UNIT SA FAN \u2013 10",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "2.18",
+        "Module No": "2.18",
         "Description": "FEEDER FOR PROTABLE DEWATERING PUMP",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "3.4",
+        "Module No": "3.4",
         "Description": "BUS COUPLER B/C",
         "TYPE": "E",
         "AMP RATTING": "400A"
       },
       {
-        "Module\nNo": "3.5",
+        "Module No": "3.5",
         "Description": "SA UNIT",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "3.7",
+        "Module No": "3.7",
         "Description": "HYD OPEN BFV POWER METER DISC BFV-3C",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "3.9",
+        "Module No": "3.9",
         "Description": "METERING MODULE",
         "TYPE": "VM",
         "AMP RATTING": ""
       },
       {
-        "Module\nNo": "3.15",
+        "Module No": "3.15",
         "Description": "INCOMER-1 FOR ( COM + SERV WATER + CHLOR) BD",
         "TYPE": "H",
         "AMP RATTING": "630A"
       },
       {
-        "Module\nNo": "3.18",
+        "Module No": "3.18",
         "Description": "EMPTY",
         "TYPE": "",
         "AMP RATTING": ""
       },
       {
-        "Module\nNo": "4.4",
+        "Module No": "4.4",
         "Description": "ADAPTOR",
         "TYPE": "",
         "AMP RATTING": ""
       },
       {
-        "Module\nNo": "4.5",
+        "Module No": "4.5",
         "Description": "SA UNIT",
         "TYPE": "E",
         "AMP RATTING": "16A"
       },
       {
-        "Module\nNo": "4.7",
+        "Module No": "4.7",
         "Description": "HYD OPEN BFV POWER MOTOR DISC BH\\FV-4A",
         "TYPE": "E",
         "AMP RATTING": "63A"
       },
       {
-        "Module\nNo": "4.9",
+        "Module No": "4.9",
         "Description": "METERING MODULE",
         "TYPE": "VM",
         "AMP RATTING": ""
       },
       {
-        "Module\nNo": "4.15",
+        "Module No": "4.15",
         "Description": "INC \u2013 2 FR( COM + SERV WATER + CHLOR ) BD",
         "TYPE": "H",
         "AMP RATTING": "630A"
       },
       {
-        "Module\nNo": "4.18",
+        "Module No": "4.18",
         "Description": "EMPTY",
         "TYPE": "",
         "AMP RATTING": ""
-      }
-    ]
-  },
-  "Page 26, Table 0": {
-    "header": "CW MCC UNIT 3 & 4\nIN CWPH 3&4",
-    "table": [
+      },
       {
         "Module No": "5.2",
         "Description": "HOIST FOR STOP LOG GATES",
         "TYPE": "E",
-        "AMP": "63A"
+        "AMP RATTING": "63A"
       },
       {
         "Module No": "5.3",
         "Description": "ELECTRICALLY OPEN VLV 2000 NOS",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.6",
         "Description": "EOT CRANE- 2 ( 45 TON )",
         "TYPE": "E",
-        "AMP": "125A"
+        "AMP RATTING": "125A"
       },
       {
         "Module No": "5.7",
         "Description": "EMPTY",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.8",
         "Description": "SPARE",
         "TYPE": "E",
-        "AMP": "32A"
+        "AMP RATTING": "32A"
       },
       {
         "Module No": "5.9",
         "Description": "CONTROL PANNEL",
         "TYPE": "E",
-        "AMP": "32A"
+        "AMP RATTING": "32A"
       },
       {
         "Module No": "5.10",
         "Description": "SPARE,(SA,FAN,1A,2A,3A)(North)",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.11",
         "Description": "RE UNIT SA FAN-1( SOTH )",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.12",
         "Description": "RE UNIT SA FAN-2 ( CWPH)",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.13",
         "Description": "EX UNIT , SA FAN 1,2",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.14",
         "Description": "SA UNIT ,SA FAN \u2013 6",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.15",
         "Description": "SA UNIT SA FAN \u2013 5",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.16",
         "Description": "SA UNIT SA FAN \u2013 4",
         "TYPE": "E",
-        "AMP": "16A"
+        "AMP RATTING": "16A"
       },
       {
         "Module No": "5.18",
         "Description": "HOIST FOR TRASH RACK",
         "TYPE": "E",
-        "AMP": "63A"
+        "AMP RATTING": "63A"
       },
       {
         "Module No": "6.2",
         "Description": "HYD. OPEN BFV POWER MOTOR DISC BFV \u2013 4 B",
         "TYPE": "E",
-        "AMP": "63A"
+        "AMP RATTING": "63A"
       },
       {
         "Module No": "6.4",
         "Description": "SPARE LIGHTING PANNEL",
         "TYPE": "E",
-        "AMP": "63A"
+        "AMP RATTING": "63A"
       },
       {
         "Module No": "6.18",
         "Description": "CPNTROL SUPPLY MODULE",
         "TYPE": "CS",
-        "AMP": "2X2 KVA"
+        "AMP RATTING": "2X2 KVA"
       }
     ]
   },
@@ -8517,601 +8512,592 @@
     "header": "DM PLANT MCC STAGE- II",
     "table": [
       {
-        "Module\nNo": "1.2",
+        "Module No": "1.2",
         "Description": "INCOMER \u2013 I FROM DMPT-2A",
         "Rating": "2500A",
         "Type of Module": "PCT"
       },
       {
-        "Module\nNo": "2.2F",
+        "Module No": "2.2F",
         "Description": "AGITATOR FOR ALKALI DAY TANK",
         "Rating": "0.75KW",
         "Type of Module": ""
       },
       {
-        "Module\nNo": "2.18F",
+        "Module No": "2.18F",
         "Description": "METERING MODULE",
         "Rating": "",
         "Type of Module": "G1"
       },
       {
-        "Module\nNo": "3.4F",
+        "Module No": "3.4F",
         "Description": "FILTER WATER P/P \u2013 1A",
         "Rating": "30KW",
         "Type of Module": "PK21"
       },
       {
-        "Module\nNo": "3.5F",
+        "Module No": "3.5F",
         "Description": "RE UNIT",
         "Rating": "16A",
         "Type of Module": "E"
       },
       {
-        "Module\nNo": "3.6F",
+        "Module No": "3.6F",
         "Description": "RE UNIT",
         "Rating": "16A",
         "Type of Module": "E"
       },
       {
-        "Module\nNo": "3.18F",
+        "Module No": "3.18F",
         "Description": "CONTROL SUPPLY MODULE",
         "Rating": "2X2KVA",
         "Type of Module": "CS"
       },
       {
-        "Module\nNo": "4.4F",
+        "Module No": "4.4F",
         "Description": "DEGASSER WATER P/P-2A",
         "Rating": "37KW",
         "Type of Module": "PK21"
       },
       {
-        "Module\nNo": "4.8F",
+        "Module No": "4.8F",
         "Description": "DEGASSER WATER P/P-2B",
         "Rating": "37KW",
         "Type of Module": "PK21"
       },
       {
-        "Module\nNo": "4.18F",
+        "Module No": "4.18F",
         "Description": "BOILER FILTP/P-A",
         "Rating": "110KW",
         "Type of Module": "PK21"
       },
       {
-        "Module\nNo": "5.2F",
+        "Module No": "5.2F",
         "Description": "PCKAGE AC FEEDER \u2013 I",
         "Rating": "63A",
         "Type of Module": "E"
       },
       {
-        "Module\nNo": "5.4F",
+        "Module No": "5.4F",
         "Description": "DEGASSED BLOWER \u2013 1A",
         "Rating": "2.2KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "5.6F",
+        "Module No": "5.6F",
         "Description": "DEGASSED BLOWER - 2A",
         "Rating": "2.2KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "5.8F",
+        "Module No": "5.8F",
         "Description": "DEGASSED BLOWER \u2013 3A",
         "Rating": "2.2KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "5.10F",
+        "Module No": "5.10F",
         "Description": "ALKALI UNLOADING P/P- 5A",
         "Rating": "1.5KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "5.12F",
+        "Module No": "5.12F",
         "Description": "ACID UNLOADING P/P- 4A",
         "Rating": "1.5KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "5.14F",
+        "Module No": "5.14F",
         "Description": "ALKALI TRANSFFER P/P-6A",
         "Rating": "1.5KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "5.16F",
+        "Module No": "5.16F",
         "Description": "STRIP HEATER",
         "Rating": "6.0KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "5.18F",
+        "Module No": "5.18F",
         "Description": "STRIP HEATER",
         "Rating": "6.0KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "6.2F",
+        "Module No": "6.2F",
         "Description": "BUS COUPLER",
         "Rating": "1600A",
         "Type of Module": "PAE"
       },
       {
-        "Module\nNo": "6.7F",
+        "Module No": "6.7F",
         "Description": "PACKAGE AC FEEDER \u2013 2",
         "Rating": "63A",
         "Type of Module": "E"
       },
       {
-        "Module\nNo": "7.4F",
+        "Module No": "7.4F",
         "Description": "DEGASSER BLOWER-1B",
         "Rating": "2.2KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "7.6F",
+        "Module No": "7.6F",
         "Description": "DEGASSER BLOWER- 2B",
         "Rating": "2.2KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "7.8F",
+        "Module No": "7.8F",
         "Description": "DEGASSER BLOWER \u2013 3B",
         "Rating": "2.2KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "7.10F",
+        "Module No": "7.10F",
         "Description": "ALKALI UNLOADING P/P-5B",
         "Rating": "1.5KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "7.12F",
+        "Module No": "7.12F",
         "Description": "ACID UNLOADING P/P-4B",
         "Rating": "1.5KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "7.14F",
+        "Module No": "7.14F",
         "Description": "ALKALI TRANSFFER P/P-6B",
         "Rating": "1.5KW",
         "Type of Module": "PK2"
       },
       {
-        "Module\nNo": "7.16F",
+        "Module No": "7.16F",
         "Description": "STRIP HEATER",
         "Rating": "6.0KW",
         "Type of Module": "PK2"
-      }
-    ]
-  },
-  "Page 66, Table 0": {
-    "header": "DM PLANT MCC STAGE- II",
-    "table": [
+      },
       {
         "Module No": "7.18F",
         "Description": "STRIP HEATER",
-        "TYPE": "6.0KW",
-        "AMP": "PK2"
+        "Rating": "6.0KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "8.4F",
         "Description": "DEGASSER WATER P/P-S1",
-        "TYPE": "37KW",
-        "AMP": "PK21"
+        "Rating": "37KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "8.8F",
         "Description": "DEGASSER WATER P/P-S2",
-        "TYPE": "37KW",
-        "AMP": "PK21"
+        "Rating": "37KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "8.18F",
         "Description": "BOILER FILL P/P-B",
-        "TYPE": "110KW",
-        "AMP": "PK21"
+        "Rating": "110KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "9.4F",
         "Description": "FILTER P/P IC",
-        "TYPE": "30KW",
-        "AMP": "PK21"
+        "Rating": "30KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "9.5F",
         "Description": "REUNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "9.6F",
         "Description": "REUNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "9.18F",
         "Description": "CONTROL SUPPLY MODULE",
-        "TYPE": "2X2KV",
-        "AMP": "CS"
+        "Rating": "2X2KV",
+        "Type of Module": "CS"
       },
       {
         "Module No": "10.6F",
         "Description": "DM WATER UP P/P-C",
-        "TYPE": "5.5KW",
-        "AMP": "PK21"
+        "Rating": "5.5KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "10.18F",
         "Description": "METERING MODULE",
-        "TYPE": "",
-        "AMP": "G1"
+        "Rating": "",
+        "Type of Module": "G1"
       },
       {
         "Module No": "11.2F",
         "Description": "INCOMER \u2013 2 FROM DM PT \u2013 2B",
-        "TYPE": "2500A",
-        "AMP": "PAET"
+        "Rating": "2500A",
+        "Type of Module": "PAET"
       },
       {
         "Module No": "2.3R",
         "Description": "EFFLUENT DISPOSAL P/P-7A",
-        "TYPE": "22KW",
-        "AMP": "PK2"
+        "Rating": "22KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "2.6R",
         "Description": "EFFULNT DISPOSAL P/P-76",
-        "TYPE": "22KW",
-        "AMP": "PK2"
+        "Rating": "22KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "2.8R",
         "Description": "DM WATER REGENERATION P/P-3H",
-        "TYPE": "5.5KW",
-        "AMP": "PK2"
+        "Rating": "5.5KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "2.18R",
         "Description": "SPARE",
-        "TYPE": "110KW",
-        "AMP": "PK21"
+        "Rating": "110KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "3.2R",
         "Description": "ALKALI DOSING P/P-1A",
-        "TYPE": "0.75KW",
-        "AMP": "PK2"
+        "Rating": "0.75KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "3.3R",
         "Description": "EX FAN RIG ROOM , 1,2,3",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "3.4R",
         "Description": "SA FAN MCC # 1",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "3.6R",
         "Description": "CONTROL PANEL SUPPLY -1",
-        "TYPE": "63A",
-        "AMP": "E"
+        "Rating": "63A",
+        "Type of Module": "E"
       },
       {
         "Module No": "3.8R",
         "Description": "MIXED BED BLOWER- 4 A",
-        "TYPE": "11KW",
-        "AMP": "PK2"
+        "Rating": "11KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "3.10R",
         "Description": "ALKALI PREPARATION TANK AGITATOR-1A",
-        "TYPE": "1.1KW",
-        "AMP": "PK2"
+        "Rating": "1.1KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "3.12R",
         "Description": "EFFULENT LINE PREP. TANK AGITATOR-3",
-        "TYPE": "0.75KW",
-        "AMP": "PK2"
+        "Rating": "0.75KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "3.18R",
         "Description": "DM MAKE UP P/P- 8B",
-        "TYPE": "5KW",
-        "AMP": "PK21"
+        "Rating": "5KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "4.4R",
         "Description": "FILTER WATER P/P- 1B",
-        "TYPE": "30KW",
-        "AMP": "PK21"
+        "Rating": "30KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "4.6R",
         "Description": "ELECTRIC HOIST",
-        "TYPE": "63A",
-        "AMP": "E"
+        "Rating": "63A",
+        "Type of Module": "E"
       },
       {
         "Module No": "4.9R",
         "Description": "WELDING SUPPLY",
-        "TYPE": "63A",
-        "AMP": "E"
+        "Rating": "63A",
+        "Type of Module": "E"
       },
       {
         "Module No": "4.12R",
         "Description": "LIGHTING PANEL LP \u2013 2",
-        "TYPE": "100A",
-        "AMP": "E"
+        "Rating": "100A",
+        "Type of Module": "E"
       },
       {
         "Module No": "4.18R",
         "Description": "DM MAKE UP P/P \u2013 8 B",
-        "TYPE": "55KW",
-        "AMP": "PK21"
+        "Rating": "55KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "5.1R",
         "Description": "RE UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "5.3R",
         "Description": "SPARE",
-        "TYPE": "2.2KW",
-        "AMP": "PK2"
+        "Rating": "2.2KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "5.4R",
         "Description": "RE UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "5.5R",
         "Description": "RE UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
-      }
-    ]
-  },
-  "Page 67, Table 0": {
-    "header": "DM PLANT MCC STAGE- II",
-    "table": [
+        "Rating": "16A",
+        "Type of Module": "E"
+      },
+      {
+        "Module No": "Module No",
+        "Description": "Description",
+        "Rating": "Rating",
+        "Type of Module": "Type of Module"
+      },
       {
         "Module No": "5.6R",
         "Description": "SA UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "5.7R",
         "Description": "SA UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "5.8R",
         "Description": "SA UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "5.12R",
         "Description": "PARAMEANENT STORE STAGE- II",
-        "TYPE": "250A",
-        "AMP": "E"
+        "Rating": "250A",
+        "Type of Module": "E"
       },
       {
         "Module No": "5.18R",
         "Description": "ELECTRIC HEATER \u2013 1 (HL )",
-        "TYPE": "50KW",
-        "AMP": "PK21"
+        "Rating": "50KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "",
         "Description": "BUS COUPLER",
-        "TYPE": "",
-        "AMP": ""
+        "Rating": "",
+        "Type of Module": ""
       },
       {
         "Module No": "7.2R",
         "Description": "ALKALI DOSING P/P-1B",
-        "TYPE": "0.75KW",
-        "AMP": "PK2"
+        "Rating": "0.75KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "7.3R",
         "Description": "SPARE",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "7.4R",
         "Description": "RE UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "7.5R",
         "Description": "EX UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "7.6R",
         "Description": "SA FAN PH # 1,2,3",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "7.7R",
         "Description": "SA FAN PH # 5, 4",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "7.8R",
         "Description": "SA FAN HALL",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "7.12R",
         "Description": "DM PLANT NEW OFFICE",
-        "TYPE": "250A",
-        "AMP": "E"
+        "Rating": "250A",
+        "Type of Module": "E"
       },
       {
         "Module No": "7.18R",
         "Description": "ELECTRIC HEATER \u2013 2 ( H 2 )",
-        "TYPE": "50KW",
-        "AMP": "PK21"
+        "Rating": "50KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "8.1R",
         "Description": "SA FAN HALL",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "8.2R",
         "Description": "EX FAN",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "8.3R",
         "Description": "SPARE",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "8.4R",
         "Description": "SPARE",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "8.6R",
         "Description": "LIGHTING MAST",
-        "TYPE": "63A",
-        "AMP": "E"
+        "Rating": "63A",
+        "Type of Module": "E"
       },
       {
         "Module No": "8.12R",
         "Description": "DM MAKE UP P/P \u2013 8 P",
-        "TYPE": "55KW",
-        "AMP": "PK21"
+        "Rating": "55KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "8.18R",
         "Description": "DM MAKE UP P/P \u2013 8 E",
-        "TYPE": "55KW",
-        "AMP": "PK21"
+        "Rating": "55KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "9.2R",
         "Description": "LIGHTING PANEL LP \u2013 1",
-        "TYPE": "63A",
-        "AMP": "E"
+        "Rating": "63A",
+        "Type of Module": "E"
       },
       {
         "Module No": "9.4R",
         "Description": "POWER RECEPICLE",
-        "TYPE": "63A",
-        "AMP": "E"
+        "Rating": "63A",
+        "Type of Module": "E"
       },
       {
         "Module No": "9.6R",
         "Description": "CONTROL PANEL SUPPLY",
-        "TYPE": "63A",
-        "AMP": "E"
+        "Rating": "63A",
+        "Type of Module": "E"
       },
       {
         "Module No": "9.8R",
         "Description": "MIXED BED BLOWER \u2013 4 B",
-        "TYPE": "11KW",
-        "AMP": "PK2"
+        "Rating": "11KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "9.10R",
         "Description": "ALKALI PREPARATION TANK AGITATOR-AG-1B",
-        "TYPE": "1.1KW",
-        "AMP": "PK2"
+        "Rating": "1.1KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "9.12R",
         "Description": "AGITATOR FOR ALKALI DAY TANK 2 B",
-        "TYPE": "0.75KW",
-        "AMP": "PK2"
+        "Rating": "0.75KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "9.18R",
         "Description": "SPARE",
-        "TYPE": "55KW",
-        "AMP": "PK21"
+        "Rating": "55KW",
+        "Type of Module": "PK21"
       },
       {
         "Module No": "10.3R",
         "Description": "SPARE",
-        "TYPE": "22KW",
-        "AMP": "PK2"
+        "Rating": "22KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "10.6R",
         "Description": "EFFLUENT DISPIOSAL P/P \u2013 7 C",
-        "TYPE": "22KW",
-        "AMP": "PK2"
+        "Rating": "22KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "10.8R",
         "Description": "DM WATER REGENERATION P/P \u2013 3B",
-        "TYPE": "5.5KW",
-        "AMP": "PK2"
-      }
-    ]
-  },
-  "Page 68, Table 0": {
-    "header": "DM PLANT MCC STAGE- II",
-    "table": [
+        "Rating": "5.5KW",
+        "Type of Module": "PK2"
+      },
       {
         "Module No": "10.10R",
         "Description": "SPARE",
-        "TYPE": "1.1KW",
-        "AMP": "PK2"
+        "Rating": "1.1KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "10.12R",
         "Description": "AC LPC CHARGER PANEL",
-        "TYPE": "1.1KW",
-        "AMP": "PK2"
+        "Rating": "1.1KW",
+        "Type of Module": "PK2"
       },
       {
         "Module No": "10.13R",
         "Description": "RE UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "10.14R",
         "Description": "RE UNIT",
-        "TYPE": "16A",
-        "AMP": "E"
+        "Rating": "16A",
+        "Type of Module": "E"
       },
       {
         "Module No": "10.18R",
         "Description": "FILTER WATER P/P 1 D",
-        "TYPE": "30KW",
-        "AMP": "PK21"
+        "Rating": "30KW",
+        "Type of Module": "PK21"
       }
     ]
   },
@@ -9879,7 +9865,7 @@
     "table": [
       {
         "Module\nNo": "",
-        "Description": "LIGHTING TRANSFORMER + INCOMER-A FROM FILTER WATER\nP/H BOARD PANEL NO 5,18, 100 JVA\nTRANSFORMER,TRANSFORMER 415V 415 V DYN 11",
+        "Description": "LIGHTING TRANSFORMER + INCOMER-A FROM FILTER WATER\nP/H BOARD PANEL NO 5,18",
         "Rating": "250A",
         "Type of\nModule": "E+ TRAVS"
       },
@@ -10223,16 +10209,6 @@
         "Description": "OUTGOING FEEDER,C T 5B & 6 B",
         "Type": "E",
         "Rating": "125A"
-      }
-    ]
-  },
-  "Page 78, Table 0": {
-    "header": "CHMINY LIGHTING DETAILS - 3 &4\nmodule KW AMP\nDescription Type\nNo Rating Rating\nFDR-1F1 SPARE S/F 125 A\nFDR-1F2 POWER PANEL-1 S/F 125 A\nFDR-1F3 POWER PANEL S/F 125 A\nEMERGENCY LIGHTING DB(INCOMER FROM\nFDR-1F4 S/F 125 A\nESP)\nFDR-1F5 EMERGENCY.SWGR U# 5C CHIMNEY) S/F 250 A\nFDR-2F1 ELEVATOR PANEL S/F 125 A\nFDR-2F2 SPARE S/F 100 A\nFDR-2F3 2 NOS 63 A RECE[ATACA;S S/F 100 A\nFDR-2F4 63 A RECEPTCUL AT 35.0 EL S/F 100 A\nFDR-2F5 LIGHTING PANNEL-1(LP-1A GROUND FLOOR) S/F 100 A\nFDR-2F6 LIGHTING PANNEL-2(LP-2 AT EL 88.5 MTR.) S/F 100 A\nFDR-2F7 LIGHTING PANNEL-3( S/F 100 A\nFDR-1F1 PRIMARY ISOLATION S/F\nINCOMER-2 FROM EMERGENCY BOARD OF\nFDR-1F2\nNTPC OWNER\u2019S BOARD 4,5,3 WERES\nFDR-1F3 25 KVA LIGHTING TRABNSFORMER\nFDR-2F1 INCOMER-1 FROM M D B FEEDER NO.1F4 S/F 100 A\nFDR-2F21 2X10A SP MCB 2X20 A SP MCB\nAVATION LIGHTING EXDTURESAT E2(+)88.5\nFDR-2F31 S/F 32 A\nMTR. El 178,5 & 269.0m FLASH LIGHTING\nFDR-2F41 SPARE S/F 32 A\nFDR-2F51 SPARE S/F 32 A\nFDR-2F61 SPARE S/F 32 A\nFDR-2F71\nCHIMINY LIGHTING MCC - 5&6",
-    "table": [
-      {
-        "Module\nNo": "1F-1",
-        "Description": "SPARE",
-        "AMP\nRating": "125 A"
       }
     ]
   },
