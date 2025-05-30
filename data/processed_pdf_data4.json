@@ -269,495 +269,495 @@
     ]
   },
   "Page 4, Table 0": {
-    "header": "HT /LT SWGR SUPPLY SOURCES &\nSTATUS OF BUSCOUPLERS DETAILS",
+    "header": "HT /LT SWGR SUPPLY SOURCES & STATUS OF BUSCOUPLERS DETAILS",
     "table": [
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 HT SWGRS SYSTEM",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 HT SWGRS SYSTEM",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "1.",
-        "Description Of\nMCC/SWGR": "UA",
-        "Location": "3.5 mtr",
-        "Sec - A\nIn-comer From": "UT -A",
-        "Provision of bus\ncoupler": "NO",
-        "Sec- B In-comer From": "TIE BKR FROM SC /\nSD"
+        "SL.NO": "1.",
+        "Description": "UA",
+        "LOCATION": "3.5 mtr",
+        "SEC-A SOURCE": "UT -A",
+        "COUPLER": "NO",
+        "SEC-B SOURCE": "TIE BKR FROM SC /\nSD"
       },
       {
-        "Sl.\nNo.": "2.",
-        "Description Of\nMCC/SWGR": "UB",
-        "Location": "3.5 mtr",
-        "Sec - A\nIn-comer From": "UT -B",
-        "Provision of bus\ncoupler": "NO",
-        "Sec- B In-comer From": "TIE BKR FROM SC/\nSD"
+        "SL.NO": "2.",
+        "Description": "UB",
+        "LOCATION": "3.5 mtr",
+        "SEC-A SOURCE": "UT -B",
+        "COUPLER": "NO",
+        "SEC-B SOURCE": "TIE BKR FROM SC/\nSD"
       },
       {
-        "Sl.\nNo.": "3.",
-        "Description Of\nMCC/SWGR": "UAA/ UAB",
-        "Location": "3.5 mtr",
-        "Sec - A\nIn-comer From": "UAT-A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "UAT-B"
+        "SL.NO": "3.",
+        "Description": "UAA/ UAB",
+        "LOCATION": "3.5 mtr",
+        "SEC-A SOURCE": "UAT-A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "UAT-B"
       },
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 LT SWGRS TG SIDE",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 LT SWGRS TG SIDE",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "4.",
-        "Description Of\nMCC/SWGR": "UES",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS \u2013 A",
-        "Provision of bus\ncoupler": "NA",
-        "Sec- B In-comer From": "DG \u2013 4/5/78\nDG - 6/9"
+        "SL.NO": "4.",
+        "Description": "UES",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS \u2013 A",
+        "COUPLER": "NA",
+        "SEC-B SOURCE": "DG \u2013 4/5/78\nDG - 6/9"
       },
       {
-        "Sl.\nNo.": "5.",
-        "Description Of\nMCC/SWGR": "USS",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "UST - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "UST - B"
+        "SL.NO": "5.",
+        "Description": "USS",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "UST - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "UST - B"
       },
       {
-        "Sl.\nNo.": "6.",
-        "Description Of\nMCC/SWGR": "SSS",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "SST - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "SST \u2013 B\n(FROM #6)"
+        "SL.NO": "6.",
+        "Description": "SSS",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "SST - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "SST \u2013 B\n(FROM #6)"
       },
       {
-        "Sl.\nNo.": "7.",
-        "Description Of\nMCC/SWGR": "TMCC",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS \u2013 A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS-B"
+        "SL.NO": "7.",
+        "Description": "TMCC",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS \u2013 A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS-B"
       },
       {
-        "Sl.\nNo.": "8.",
-        "Description Of\nMCC/SWGR": "TACDB",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS \u2013 A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS - B"
+        "SL.NO": "8.",
+        "Description": "TACDB",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS \u2013 A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS - B"
       },
       {
-        "Sl.\nNo.": "9.",
-        "Description Of\nMCC/SWGR": "TVDC",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS - A",
-        "Provision of bus\ncoupler": "Auto Stand by",
-        "Sec- B In-comer From": "UES"
+        "SL.NO": "9.",
+        "Description": "TVDC",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS - A",
+        "COUPLER": "Auto Stand by",
+        "SEC-B SOURCE": "UES"
       },
       {
-        "Sl.\nNo.": "10.",
-        "Description Of\nMCC/SWGR": "SACDB",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "SSS - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "SSS - B"
+        "SL.NO": "10.",
+        "Description": "SACDB",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "SSS - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "SSS - B"
       },
       {
-        "Sl.\nNo.": "11.",
-        "Description Of\nMCC/SWGR": "220 V DCDB",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "Bat Ch- 1",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "Bat Ch- 2"
+        "SL.NO": "11.",
+        "Description": "220 V DCDB",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "Bat Ch- 1",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "Bat Ch- 2"
       },
       {
-        "Sl.\nNo.": "12.",
-        "Description Of\nMCC/SWGR": "220 V DC SVDB",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "DCDB",
-        "Provision of bus\ncoupler": "NO",
-        "Sec- B In-comer From": ""
+        "SL.NO": "12.",
+        "Description": "220 V DC SVDB",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "DCDB",
+        "COUPLER": "NO",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "13.",
-        "Description Of\nMCC/SWGR": "AWMCC",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS - B"
+        "SL.NO": "13.",
+        "Description": "AWMCC",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS - B"
       },
       {
-        "Sl.\nNo.": "14.",
-        "Description Of\nMCC/SWGR": "AC MLDB",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS - B"
+        "SL.NO": "14.",
+        "Description": "AC MLDB",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS - B"
       },
       {
-        "Sl.\nNo.": "15.",
-        "Description Of\nMCC/SWGR": "AC LIGHTING",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS - B"
+        "SL.NO": "15.",
+        "Description": "AC LIGHTING",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS - B"
       },
       {
-        "Sl.\nNo.": "16.",
-        "Description Of\nMCC/SWGR": "Vent /AHU",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS - B"
+        "SL.NO": "16.",
+        "Description": "Vent /AHU",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS - B"
       },
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 LT SWGRS SG SIDE",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 LT SWGRS SG SIDE",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "17.",
-        "Description Of\nMCC/SWGR": "BLR MCC",
-        "Location": "26.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS-B"
+        "SL.NO": "17.",
+        "Description": "BLR MCC",
+        "LOCATION": "26.5 Mtr.",
+        "SEC-A SOURCE": "USS - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS-B"
       },
       {
-        "Sl.\nNo.": "18.",
-        "Description Of\nMCC/SWGR": "COAL MILL MCC",
-        "Location": "26.5 Mtr.",
-        "Sec - A\nIn-comer From": "SSS - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "SSS - B"
+        "SL.NO": "18.",
+        "Description": "COAL MILL MCC",
+        "LOCATION": "26.5 Mtr.",
+        "SEC-A SOURCE": "SSS - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "SSS - B"
       },
       {
-        "Sl.\nNo.": "19.",
-        "Description Of\nMCC/SWGR": "BVDC",
-        "Location": "26.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS \u2013 A",
-        "Provision of bus\ncoupler": "Auto Stand by",
-        "Sec- B In-comer From": "UES"
+        "SL.NO": "19.",
+        "Description": "BVDC",
+        "LOCATION": "26.5 Mtr.",
+        "SEC-A SOURCE": "USS \u2013 A",
+        "COUPLER": "Auto Stand by",
+        "SEC-B SOURCE": "UES"
       },
       {
-        "Sl.\nNo.": "20.",
-        "Description Of\nMCC/SWGR": "BDDC",
-        "Location": "26.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS - B",
-        "Provision of bus\ncoupler": "Auto Stand by",
-        "Sec- B In-comer From": "UES"
+        "SL.NO": "20.",
+        "Description": "BDDC",
+        "LOCATION": "26.5 Mtr.",
+        "SEC-A SOURCE": "USS - B",
+        "COUPLER": "Auto Stand by",
+        "SEC-B SOURCE": "UES"
       },
       {
-        "Sl.\nNo.": "21.",
-        "Description Of\nMCC/SWGR": "BACDB",
-        "Location": "26.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS-A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS-B"
+        "SL.NO": "21.",
+        "Description": "BACDB",
+        "LOCATION": "26.5 Mtr.",
+        "SEC-A SOURCE": "USS-A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS-B"
       },
       {
-        "Sl.\nNo.": "22.",
-        "Description Of\nMCC/SWGR": "SBMCC",
-        "Location": "26.5 Mtr.",
-        "Sec - A\nIn-comer From": "BACDB - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "BACDB - B"
+        "SL.NO": "22.",
+        "Description": "SBMCC",
+        "LOCATION": "26.5 Mtr.",
+        "SEC-A SOURCE": "BACDB - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "BACDB - B"
       },
       {
-        "Sl.\nNo.": "23.",
-        "Description Of\nMCC/SWGR": "AC SV DB",
-        "Location": "26.5 Mtr.",
-        "Sec - A\nIn-comer From": "BACDB - A",
-        "Provision of bus\ncoupler": "NO",
-        "Sec- B In-comer From": "BACDB - B"
+        "SL.NO": "23.",
+        "Description": "AC SV DB",
+        "LOCATION": "26.5 Mtr.",
+        "SEC-A SOURCE": "BACDB - A",
+        "COUPLER": "NO",
+        "SEC-B SOURCE": "BACDB - B"
       },
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 LT SWGRS ESP & ASH HANDLING",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 LT SWGRS ESP & ASH HANDLING",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "24.",
-        "Description Of\nMCC/SWGR": "ESP BOARD -A",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP SERVICE\nXFMR - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP SERVICE XFMR\n- B"
+        "SL.NO": "24.",
+        "Description": "ESP BOARD -A",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP SERVICE\nXFMR - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP SERVICE XFMR\n- B"
       },
       {
-        "Sl.\nNo.": "25.",
-        "Description Of\nMCC/SWGR": "ESP BOARD -B",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP SERVICE\nXFMR - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP SERVICE XFMR\n- B"
+        "SL.NO": "25.",
+        "Description": "ESP BOARD -B",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP SERVICE\nXFMR - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP SERVICE XFMR\n- B"
       },
       {
-        "Sl.\nNo.": "26.",
-        "Description Of\nMCC/SWGR": "ESP BOARD -C",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP SERVICE\nXFMR - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP SERVICE XFMR\n- B"
+        "SL.NO": "26.",
+        "Description": "ESP BOARD -C",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP SERVICE\nXFMR - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP SERVICE XFMR\n- B"
       },
       {
-        "Sl.\nNo.": "27.",
-        "Description Of\nMCC/SWGR": "ESP BOARD -D",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP SERVICE\nXFMR - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP SERVICE XFMR\n- B"
+        "SL.NO": "27.",
+        "Description": "ESP BOARD -D",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP SERVICE\nXFMR - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP SERVICE XFMR\n- B"
       },
       {
-        "Sl.\nNo.": "28.",
-        "Description Of\nMCC/SWGR": "ESP pass-A ACP",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD- A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD- A"
+        "SL.NO": "28.",
+        "Description": "ESP pass-A ACP",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD- A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD- A"
       },
       {
-        "Sl.\nNo.": "29.",
-        "Description Of\nMCC/SWGR": "ESP pass-B ACP",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD- B",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD- B"
+        "SL.NO": "29.",
+        "Description": "ESP pass-B ACP",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD- B",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD- B"
       },
       {
-        "Sl.\nNo.": "30.",
-        "Description Of\nMCC/SWGR": "ESP pass-C ACP",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD- C",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD- C"
+        "SL.NO": "30.",
+        "Description": "ESP pass-C ACP",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD- C",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD- C"
       },
       {
-        "Sl.\nNo.": "31.",
-        "Description Of\nMCC/SWGR": "ESP pass-D ACP",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD- D",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD- D"
+        "SL.NO": "31.",
+        "Description": "ESP pass-D ACP",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD- D",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD- D"
       },
       {
-        "Sl.\nNo.": "32.",
-        "Description Of\nMCC/SWGR": "AEMCC",
-        "Location": "VPH",
-        "Sec - A\nIn-comer From": "AE XFMR - A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "AE XFMR - B"
+        "SL.NO": "32.",
+        "Description": "AEMCC",
+        "LOCATION": "VPH",
+        "SEC-A SOURCE": "AE XFMR - A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "AE XFMR - B"
       },
       {
-        "Sl.\nNo.": "33.",
-        "Description Of\nMCC/SWGR": "BA MCC",
-        "Location": "26.5 MTR\nSWGR",
-        "Sec - A\nIn-comer From": "BMCC sec- A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "BMCC sec- B"
+        "SL.NO": "33.",
+        "Description": "BA MCC",
+        "LOCATION": "26.5 MTR\nSWGR",
+        "SEC-A SOURCE": "BMCC sec- A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "BMCC sec- B"
       },
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 220 V DC SYSTEM",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 220 V DC SYSTEM",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "34.",
-        "Description Of\nMCC/SWGR": "220 V DC Main\nDistribution board",
-        "Location": "12.5 mtr",
-        "Sec - A\nIn-comer From": "220V Ch - 1 + Batter\nset-1",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "220V Ch - 2 +\nBatter set-2"
+        "SL.NO": "34.",
+        "Description": "220 V DC Main\nDistribution board",
+        "LOCATION": "12.5 mtr",
+        "SEC-A SOURCE": "220V Ch - 1 + Batter\nset-1",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "220V Ch - 2 +\nBatter set-2"
       },
       {
-        "Sl.\nNo.": "35.",
-        "Description Of\nMCC/SWGR": "220 V DC SV DB",
-        "Location": "12.5 mtr",
-        "Sec - A\nIn-comer From": "DCDB sec-1",
-        "Provision of bus\ncoupler": "Yes",
-        "Sec- B In-comer From": "DCDB-sec-2"
+        "SL.NO": "35.",
+        "Description": "220 V DC SV DB",
+        "LOCATION": "12.5 mtr",
+        "SEC-A SOURCE": "DCDB sec-1",
+        "COUPLER": "Yes",
+        "SEC-B SOURCE": "DCDB-sec-2"
       },
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 LT SWGRS OFFSITE AREAS",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 LT SWGRS OFFSITE AREAS",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "36.",
-        "Description Of\nMCC/SWGR": "CT MCC \u2013 A",
-        "Location": "CT MCC",
-        "Sec - A\nIn-comer From": "CT XFMR - A",
-        "Provision of bus\ncoupler": "Standby",
-        "Sec- B In-comer From": "CT XFMR -C"
+        "SL.NO": "36.",
+        "Description": "CT MCC \u2013 A",
+        "LOCATION": "CT MCC",
+        "SEC-A SOURCE": "CT XFMR - A",
+        "COUPLER": "Standby",
+        "SEC-B SOURCE": "CT XFMR -C"
       },
       {
-        "Sl.\nNo.": "37.",
-        "Description Of\nMCC/SWGR": "CT MCC - B",
-        "Location": "CT MCC",
-        "Sec - A\nIn-comer From": "CT XFMR - B",
-        "Provision of bus\ncoupler": "Standby",
-        "Sec- B In-comer From": "CT XFMR -C"
+        "SL.NO": "37.",
+        "Description": "CT MCC - B",
+        "LOCATION": "CT MCC",
+        "SEC-A SOURCE": "CT XFMR - B",
+        "COUPLER": "Standby",
+        "SEC-B SOURCE": "CT XFMR -C"
       },
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 AC & Ventilation SYSTEM",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 AC & Ventilation SYSTEM",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "38.",
-        "Description Of\nMCC/SWGR": "ESP-VFD A/C MCC -3\nSEC A/B",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD-3D",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD-4D"
+        "SL.NO": "38.",
+        "Description": "ESP-VFD A/C MCC -3\nSEC A/B",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD-3D",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD-4D"
       },
       {
-        "Sl.\nNo.": "39.",
-        "Description Of\nMCC/SWGR": "ESP-VFD A/C MCC-4 SEC\nA/B",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD-4D",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD-3D"
+        "SL.NO": "39.",
+        "Description": "ESP-VFD A/C MCC-4 SEC\nA/B",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD-4D",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD-3D"
       },
       {
-        "Sl.\nNo.": "40.",
-        "Description Of\nMCC/SWGR": "ESP-VFD A/C MCC-5 SEC\nA/B",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD-5D",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD-6D"
+        "SL.NO": "40.",
+        "Description": "ESP-VFD A/C MCC-5 SEC\nA/B",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD-5D",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD-6D"
       },
       {
-        "Sl.\nNo.": "41.",
-        "Description Of\nMCC/SWGR": "ESP-VFD A/C MCC- 6\nSEC A/B",
-        "Location": "ESP SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD-6D",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD-5D"
+        "SL.NO": "41.",
+        "Description": "ESP-VFD A/C MCC- 6\nSEC A/B",
+        "LOCATION": "ESP SWGR",
+        "SEC-A SOURCE": "ESP BOARD-6D",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD-5D"
       },
       {
-        "Sl.\nNo.": "42.",
-        "Description Of\nMCC/SWGR": "Air Washer MCC",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "USS SEC-A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "USS SEC-B"
+        "SL.NO": "42.",
+        "Description": "Air Washer MCC",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "USS SEC-A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "USS SEC-B"
       },
       {
-        "Sl.\nNo.": "43.",
-        "Description Of\nMCC/SWGR": "Vent & AHU MCC",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "SS SWGR- A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "SS SWGR- A"
+        "SL.NO": "43.",
+        "Description": "Vent & AHU MCC",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "SS SWGR- A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "SS SWGR- A"
       },
       {
-        "Sl.\nNo.": "44.",
-        "Description Of\nMCC/SWGR": "AC MCC - 4",
-        "Location": "AC plant",
-        "Sec - A\nIn-comer From": "SSSWGR- 4\n3.18R",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "SSSWGR- 4\n12.10F"
+        "SL.NO": "44.",
+        "Description": "AC MCC - 4",
+        "LOCATION": "AC plant",
+        "SEC-A SOURCE": "SSSWGR- 4\n3.18R",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "SSSWGR- 4\n12.10F"
       },
       {
-        "Sl.\nNo.": "45.",
-        "Description Of\nMCC/SWGR": "AC MCC - 5",
-        "Location": "AC plant",
-        "Sec - A\nIn-comer From": "SSSWGR- 5\n3.18R",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "SSSWGR- 5\n12.18F"
+        "SL.NO": "45.",
+        "Description": "AC MCC - 5",
+        "LOCATION": "AC plant",
+        "SEC-A SOURCE": "SSSWGR- 5\n3.18R",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "SSSWGR- 5\n12.18F"
       },
       {
-        "Sl.\nNo.": "46.",
-        "Description Of\nMCC/SWGR": "Emergency AC MCC - 4",
-        "Location": "AC plant",
-        "Sec - A\nIn-comer From": "SSSWGR- 4\n10.18R",
-        "Provision of bus\ncoupler": "NO",
-        "Sec- B In-comer From": "UES -4\n9.12R"
+        "SL.NO": "46.",
+        "Description": "Emergency AC MCC - 4",
+        "LOCATION": "AC plant",
+        "SEC-A SOURCE": "SSSWGR- 4\n10.18R",
+        "COUPLER": "NO",
+        "SEC-B SOURCE": "UES -4\n9.12R"
       },
       {
-        "Sl.\nNo.": "47.",
-        "Description Of\nMCC/SWGR": "Emergency AC MCC - 5",
-        "Location": "AC plant",
-        "Sec - A\nIn-comer From": "SSSWGR- 5\n10.8R",
-        "Provision of bus\ncoupler": "NO",
-        "Sec- B In-comer From": "UES -5\n9.12R"
+        "SL.NO": "47.",
+        "Description": "Emergency AC MCC - 5",
+        "LOCATION": "AC plant",
+        "SEC-A SOURCE": "SSSWGR- 5\n10.8R",
+        "COUPLER": "NO",
+        "SEC-B SOURCE": "UES -5\n9.12R"
       },
       {
-        "Sl.\nNo.": "",
-        "Description Of\nMCC/SWGR": "\u2022 SWGRS FOR LIGHTING & WELDING SUPPLY",
-        "Location": "",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "",
+        "Description": "\u2022 SWGRS FOR LIGHTING & WELDING SUPPLY",
+        "LOCATION": "",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "48.",
-        "Description Of\nMCC/SWGR": "AC LIGHTING DB",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "48.",
+        "Description": "AC LIGHTING DB",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "49.",
-        "Description Of\nMCC/SWGR": "AC ELDB",
-        "Location": "12.5 Mtr.",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "49.",
+        "Description": "AC ELDB",
+        "LOCATION": "12.5 Mtr.",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "50.",
-        "Description Of\nMCC/SWGR": "ESP -3 LIGHTING\nBOARD",
-        "Location": "AW SWGR",
-        "Sec - A\nIn-comer From": "ESP BOARD-B",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "ESP BOARD-B"
+        "SL.NO": "50.",
+        "Description": "ESP -3 LIGHTING\nBOARD",
+        "LOCATION": "AW SWGR",
+        "SEC-A SOURCE": "ESP BOARD-B",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "ESP BOARD-B"
       },
       {
-        "Sl.\nNo.": "51.",
-        "Description Of\nMCC/SWGR": "SW/COMP LIGHTING\nBOARD",
-        "Location": "SW SWGR",
-        "Sec - A\nIn-comer From": "SW SWGR-A",
-        "Provision of bus\ncoupler": "YES",
-        "Sec- B In-comer From": "SW SWGR-B"
+        "SL.NO": "51.",
+        "Description": "SW/COMP LIGHTING\nBOARD",
+        "LOCATION": "SW SWGR",
+        "SEC-A SOURCE": "SW SWGR-A",
+        "COUPLER": "YES",
+        "SEC-B SOURCE": "SW SWGR-B"
       },
       {
-        "Sl.\nNo.": "52.",
-        "Description Of\nMCC/SWGR": "WELDING DB",
-        "Location": "12.5",
-        "Sec - A\nIn-comer From": "",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": ""
+        "SL.NO": "52.",
+        "Description": "WELDING DB",
+        "LOCATION": "12.5",
+        "SEC-A SOURCE": "",
+        "COUPLER": "",
+        "SEC-B SOURCE": ""
       },
       {
-        "Sl.\nNo.": "53.",
-        "Description Of\nMCC/SWGR": "Chimney lighting MCC",
-        "Location": "Chimney",
-        "Sec - A\nIn-comer From": "ESP Board-C",
-        "Provision of bus\ncoupler": "",
-        "Sec- B In-comer From": "EmergecyMCC"
+        "SL.NO": "53.",
+        "Description": "Chimney lighting MCC",
+        "LOCATION": "Chimney",
+        "SEC-A SOURCE": "ESP Board-C",
+        "COUPLER": "",
+        "SEC-B SOURCE": "EmergecyMCC"
       }
     ]
   },
